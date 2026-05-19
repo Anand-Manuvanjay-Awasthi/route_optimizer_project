@@ -24,6 +24,12 @@ The whole thing runs on one POST endpoint.
 
 ---
 
+## Architecture Diagram 
+
+<img width="976" height="727" alt="image" src="https://github.com/user-attachments/assets/aff86a8e-1775-4f0a-bc32-63cf379ba489" />
+
+
+
 ## Project Structure
 
 ```
